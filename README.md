@@ -18,7 +18,7 @@ gem 'todc-bs-sass'
 Add necessary stylesheet file to `app/assets/stylesheets/application.css`:
 
 ```
-*= require 'todc-bootstrap'
+*= require 'todc-bs'
 ```
 
 Enjoy it.
@@ -27,6 +27,11 @@ See [Todc-Bootstrap](https://github.com/todc/todc-bootstrap#documentation) for m
 
 
 ### ChangeLog
+
+**v0.0.2 [2014-05-04]**
+
+- `*= require 'todc-bs'`
+
 
 **v0.0.1 [2014-05-03]**
 
